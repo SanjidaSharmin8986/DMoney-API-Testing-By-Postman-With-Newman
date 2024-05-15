@@ -1,7 +1,5 @@
 # DMoney-API-Testing-By-Postman-With-NewmanReport
 
-## Prerequisite
-- NodeJs
 
 ## About this project:
 D-Money API is a fintech API demo that enables users to transfer fake money from one user to another. I have claimed multiple APIs and created a collection of API responses (in both positive and negative scenarios) using Postman. Additionally, I have generated a report using Newman.
@@ -13,6 +11,9 @@ D-Money API is a fintech API demo that enables users to transfer fake money from
 #### Newman Report:
 ![Newman-Report](https://github.com/SanjidaSharmin8986/DMoney-API-Testing-With-Newman/assets/156296801/92987d8d-f8f3-40ba-a9b1-8d4d279e3b39)
 
+## Prerequisite
+- NodeJs
+  
 ## Tools and Technology used:
 - Postman
 - Newman
